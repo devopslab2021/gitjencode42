@@ -4,8 +4,8 @@ public static void main(String abc[])
  {
 int a,b;
 
-  a = 11;
-  b = 12;
+  a = 13;
+  b = 13;
 
 if(a >= 10 && b>= 10)
   {
